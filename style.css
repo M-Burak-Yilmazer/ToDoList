@@ -1,1 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+#list {
+  list-style-type: upper-roman;
+  font-weight: 600;
+}
+#list li {
+  margin: 0.5rem 0;
+  font-family: 'Montserrat', sans-serif;
+}
+body {
+  background-color: #f5bcb5;
+}
+h1{
+    font-family: 'Satisfy', cursive;
+}
+h1::first-letter{
+    font-size: 5rem;
+    font-weight: 100;
 
+}
